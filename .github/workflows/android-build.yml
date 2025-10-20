@@ -5,9 +5,7 @@
 
 ---
 
-## 📄 `.github/workflows/android-build.yml`
-
-```yaml
+## 📄 
 name: Build APK
 
 on:
